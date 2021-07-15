@@ -51,7 +51,6 @@ model.3.ols %>% summary()
 sqrt(mean(model.3.ols$residuals^2)) #RMSE
 model.frame(model.3.ols) %>% nrow() #N
 
-
 pred.3.ols <- ggpredict(model.3.ols, terms = "Conditionb")
 
 
