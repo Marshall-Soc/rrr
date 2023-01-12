@@ -2,7 +2,7 @@
 
 [Terence E. McDonnell](https://sociology.nd.edu/people/terence-mcdonnell), [Dustin S. Stoltz](https://www.dustinstoltz.com) & [Marshall A. Taylor](https://www.marshalltaylor.net)
 
-This repository contains all R code necessary to reproduce the analysis in "Revision, Reclassification, and Refrigerators," forthcoming in *Sociological Forum*.
+This repository contains all R code necessary to reproduce the analysis in "Revision, Reclassification, and Refrigerators," [published in *Sociological Forum*](https://onlinelibrary.wiley.com/doi/abs/10.1111/socf.12769).
 
 Please contact [Terence E. McDonnell](mailto:terence.e.mcdonnell@nd.edu) for details on how to access the data.
 
